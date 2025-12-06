@@ -11,6 +11,7 @@ public class RelayCommand<T> : IRelayCommand<T>
     {
         ArgumentNullException.ThrowIfNull(execute);
         _canExecute = canExecute;
+        _execute = execute;
     }
 
     public bool CanExecute(T? parameter)
@@ -20,7 +21,36 @@ public class RelayCommand<T> : IRelayCommand<T>
 
     public void Execute(T? parameter)
     {
-        _execute(parameter);
+        _execute.Invoke(parameter);
+    }
+
+    public event EventHandler? CanExecuteChanged
+    {
+        add => CommandManager.RequerySuggested += value;
+        remove => CommandManager.RequerySuggested -= value;
+    }
+}
+
+public class RelayCommand : IRelayCommand
+{
+    private readonly Action _execute = null!;
+    private readonly Func<bool>? _canExecute;
+
+    public RelayCommand(Action execute, Func<bool>? canExecute = null)
+    {
+        ArgumentNullException.ThrowIfNull(execute);
+        _canExecute = canExecute;
+        _execute = execute;
+    }
+
+    public bool CanExecute()
+    {
+        return _canExecute?.Invoke() ?? true;
+    }
+
+    public void Execute()
+    {
+        _execute?.Invoke();
     }
 
     public event EventHandler? CanExecuteChanged

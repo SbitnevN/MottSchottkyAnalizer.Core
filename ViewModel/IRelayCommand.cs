@@ -11,3 +11,12 @@ public interface IRelayCommand<T> : ICommand
     bool ICommand.CanExecute(object? parameter) => CanExecute((T?)parameter);
     void ICommand.Execute(object? parameter) => Execute((T?)parameter);
 }
+
+public interface IRelayCommand : ICommand
+{
+    bool CanExecute();
+    void Execute();
+
+    bool ICommand.CanExecute(object? parameter) => CanExecute();
+    void ICommand.Execute(object? parameter) => Execute();
+}
