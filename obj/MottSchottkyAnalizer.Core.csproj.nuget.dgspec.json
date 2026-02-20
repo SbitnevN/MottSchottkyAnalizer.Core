@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Github\\Diplome\\MottSchottkyAnalizer.Core\\MottSchottkyAnalizer.Core.csproj": {}
+    "F:\\Programming\\Diplome\\MottSchottkyAnalizer.Core\\MottSchottkyAnalizer.Core.csproj": {}
   },
   "projects": {
-    "E:\\Github\\Diplome\\MottSchottkyAnalizer.Core\\MottSchottkyAnalizer.Core.csproj": {
+    "F:\\Programming\\Diplome\\MottSchottkyAnalizer.Core\\MottSchottkyAnalizer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Github\\Diplome\\MottSchottkyAnalizer.Core\\MottSchottkyAnalizer.Core.csproj",
+        "projectUniqueName": "F:\\Programming\\Diplome\\MottSchottkyAnalizer.Core\\MottSchottkyAnalizer.Core.csproj",
         "projectName": "MottSchottkyAnalizer.Core",
-        "projectPath": "E:\\Github\\Diplome\\MottSchottkyAnalizer.Core\\MottSchottkyAnalizer.Core.csproj",
-        "packagesPath": "C:\\Users\\rer4e\\.nuget\\packages\\",
-        "outputPath": "E:\\Github\\Diplome\\MottSchottkyAnalizer.Core\\obj\\",
+        "projectPath": "F:\\Programming\\Diplome\\MottSchottkyAnalizer.Core\\MottSchottkyAnalizer.Core.csproj",
+        "packagesPath": "C:\\Users\\sbitn\\.nuget\\packages\\",
+        "outputPath": "F:\\Programming\\Diplome\\MottSchottkyAnalizer.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rer4e\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sbitn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -69,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

@@ -10,3 +10,15 @@ E:\Github\Diplome\MottSchottkyAnalizer.Core\obj\Debug\net10.0-windows\MottSchott
 E:\Github\Diplome\MottSchottkyAnalizer.Core\obj\Debug\net10.0-windows\refint\MottSchottkyAnalizer.Core.dll
 E:\Github\Diplome\MottSchottkyAnalizer.Core\obj\Debug\net10.0-windows\MottSchottkyAnalizer.Core.pdb
 E:\Github\Diplome\MottSchottkyAnalizer.Core\obj\Debug\net10.0-windows\ref\MottSchottkyAnalizer.Core.dll
+F:\Programming\Diplome\MottSchottkyAnalizer.Core\bin\Debug\net10.0-windows\MottSchottkyAnalizer.Core.deps.json
+F:\Programming\Diplome\MottSchottkyAnalizer.Core\bin\Debug\net10.0-windows\MottSchottkyAnalizer.Core.dll
+F:\Programming\Diplome\MottSchottkyAnalizer.Core\bin\Debug\net10.0-windows\MottSchottkyAnalizer.Core.pdb
+F:\Programming\Diplome\MottSchottkyAnalizer.Core\obj\Debug\net10.0-windows\MottSchottkyAnalizer.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\Diplome\MottSchottkyAnalizer.Core\obj\Debug\net10.0-windows\MottSchottkyAnalizer.Core.AssemblyInfoInputs.cache
+F:\Programming\Diplome\MottSchottkyAnalizer.Core\obj\Debug\net10.0-windows\MottSchottkyAnalizer.Core.AssemblyInfo.cs
+F:\Programming\Diplome\MottSchottkyAnalizer.Core\obj\Debug\net10.0-windows\MottSchottkyAnalizer.Core.csproj.CoreCompileInputs.cache
+F:\Programming\Diplome\MottSchottkyAnalizer.Core\obj\Debug\net10.0-windows\MottSchottkyAnalizer.Core.sourcelink.json
+F:\Programming\Diplome\MottSchottkyAnalizer.Core\obj\Debug\net10.0-windows\MottSchottkyAnalizer.Core.dll
+F:\Programming\Diplome\MottSchottkyAnalizer.Core\obj\Debug\net10.0-windows\refint\MottSchottkyAnalizer.Core.dll
+F:\Programming\Diplome\MottSchottkyAnalizer.Core\obj\Debug\net10.0-windows\MottSchottkyAnalizer.Core.pdb
+F:\Programming\Diplome\MottSchottkyAnalizer.Core\obj\Debug\net10.0-windows\ref\MottSchottkyAnalizer.Core.dll
